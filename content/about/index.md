@@ -10,8 +10,13 @@ skills:
   - Javascript || Jquery
   - ReactJS || NodeJS || ExpressJS
   - Git || Github
-  - MongoBD || Heroku
+  - MongoBD
   - Firebase
+  - Zoho CRM
+  - Google Excel
+  - Power BI
+  - SQL
+  
 ---
 
 Hello! Interestingly, I have been a student of Maths in my high school and got introduced to programming in my freshman year at [Lovely Professional University](https://www.lpu.in/). My interest in coding started back in 2020 during first year of B.tech . Since then, I started learning programming languages & solving problems based on data structure and algorithms.
